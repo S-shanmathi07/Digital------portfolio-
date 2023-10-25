@@ -1,164 +1,25 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Your Name Portfolio</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-background-color: #fff;
-}
-header {
-background-color: #333;
-color: efff;
-text-align: center;
-padding: 2rem 0;
-position: relative; /* Add this */
-}
-.header-content h1 {
-font-size: 2.5rem;
-}
-/* Add styles for the round profile picture */
+<head><h1><center>portfolio</center></h1>
+</head>
+<body>
+  <img src="/storage/emulated/0/Android/media/com.whatsapp/whatsapp/Media/WhatsApp Images/IMG-20231019-WA0013.jpg"height=150 width=100<Br>
+    <h2>About me:</h2>
+  <h1>S.Shanmathi<BR><h1>
+    <h4><strong>  Degree:</strong></h4>
+    B.SC COMPUTERSCIENCE<BR>
+      <h4>College Name:</h4>
+    St.Justin arts and science college for women<Br>
+      <h4>Mail Id:</h4>
+    <u>shanmathi07102003@gmail.com</u><br>
+  </BR></h3> <h4>Introduction:</h4>
+    <p>I am shanmathi of st.justin arts and science college for women doing bsc.computerscience
+      <br>I have some good knowledge in computer and its compounds with good grades
+    </p>
+  
+    <center>DOWNLOAD RESUME</center></A>
+</body>
+</html>
 
-.profile-picture {
 
-width: 100px; /*Adjust the size as needed */
-height : 100px;
-border-radius: 75%; /*Create a circular shape*/
-object-fit: cover;/*to ensure the img fill circular area */
-position: absolute;
-top: 75px;
-left: 75px;
-}
-nav {
-    background-color: #333;
-   color: #fff;
-   text-align: center;
-}
- nav u1 {
-    list-style-type: none;
-    padding: 0 ;
-
- }
- nav u1 li {
-    display: inline;
-    margin: 0 20px;
-
- }
- nav u1 li a {
-    text-decoration: none;
-    color: #fff;
- }
- .section-content{
-    background-color: #fff;
-    padding: 2rem;
-    margin: 1rem;
-    border-radius: 20px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.1);
- }
- .download-button{
-    background-color: #333;
-    color:#fff ;
-    padding: 0.5rem 1rem;
-    text-decoration: none;
-    border-radius: 20px;
-    display: inline-block;
-    margin-top: 10px;
-
- }
- .download-button:hover{
-    background-color: #555;
-
- }
- footer{
-    text-align: center;
-    padding: 1rem 0;
-    background-color: #333;
-    color: #fff;
-
- }
- u1{
-    list-style-type: disc;
-    padding-left: 20px;
- }
- </style>
- </head>
- <body>
-    <header>
-        <div class="header-content">
-           <img src=/storage/8602-12EE/Documents/Shanmathi.jpg alt ="your profile picture" class ="profile-picture">
-           <h3>s.shanmathi</h3>
-           <p>student</p>
-        </div>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#about">about</a></li>
-            <li><a href="#education">education</a></li>
-            <li><a href="#skill">skills</a></li>
-            <li><a href="#project">project</a></li>
-            <li><a href="#resume">resume</a></li>
-        </ul>
-    </nav>
-    <section id="about">
-    <div class="section-content">
-        <h2>about me</h2>   
-        <p>hello everyone! this is shanmathi and i am a bsc student</p>
-    </div>
-    </section>
-    <section id="education">
-        <div class="section-content">
-            <h2> bsc</h2>
-            <p>st.justin arts and science college for women</p>
-        
-        </div>
-    </section>
-    <section id="skills">
-        <div class="section-content">
-            <h2>skills</h2>
-            <ul>
-                <li>C</li>
-                <li> AI</li>
-            </ul>
-        </div>
-    </section>
-    <section id="project">
-        <div class="section-content">
-            <h2>project</h2>
-            <ul>
-                <li>
-                    ai
-                </li>
-            </ul>
-        </div>
-    </section>
-    <section id="resume">
-        <center>
-            <div class="section-content">
-                <a href=/storage/emulated/0/Pictures/Gallery/owner/business></a>
-            </div>
-        </center>
-    </section>
-    <footer>
-        <p>&copy;2023 shanmathi</p>
-
-    </footer>
-    <script>
-        document.querySelectorAll('a[href^="#"]').forEach(anchor=>{
-            anchor.addEventListener('click',function(e){
-                e.preventDefault();
-                const targetId=this.getAttribute('href').substring(1);
-                const targetElement=document.getElementById(targetId);
-                if(targetElement){
-                    window.scrollTo({
-                        top:targetElement.offsetTop,
-                        behavior:'smooth'
-                    });
-                }
-            });
-        });
-    </script>
-    </body>
-    </html>
-    # Digital------portfolio-
+    
